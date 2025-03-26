@@ -1,5 +1,5 @@
 print('''
-Alice's Adventures in Wonderlan: 'Through the Looking Glass'
+Alice's Adventures in Wonderland: 'Through the Looking Glass'
 
 
     ,--._                      _
