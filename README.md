@@ -10,7 +10,7 @@ Welcome to my journey through the **100 Days of Code in Python** course on Udemy
 
 ## 📚 Course Overview
 
-This challenge is based on the Udemy course by Dr. Angela Yu. It covers:
+This challenge is based on the Udemy course [**100 Days of Code: The Complete Python Pro Bootcamp**](https://www.udemy.com/course/100-days-of-code/?couponCode=PMNVD3025) by **Dr. Angela Yu**. It covers:
 
 - 🧠 Python fundamentals
 - 🎮 Game development with Turtle & Tkinter
@@ -18,20 +18,6 @@ This challenge is based on the Udemy course by Dr. Angela Yu. It covers:
 - 📊 Data analysis & visualization
 - 🤖 Automation & scripting
 - 🔗 APIs & web scraping
-
-
----
-
-## ✨ Highlights
-
-Here are a few cool things I’ve built so far:
-
-- ✅ Tip Calculator
-- ✅ Password Generator
-- ✅ Snake Game
-- ✅ Flask-based Web App
-- ✅ Automated Birthday Email Sender
-
 ---
 
 ## 🎯 Goals
@@ -54,13 +40,7 @@ This is a personal learning journey, but if you spot a bug or want to suggest im
 Let’s connect and grow together!
 
 - GitHub: [Royagozalpour](https://github.com/Royagozalpour)
-- LinkedIn: *(Add your link here if you'd like)*
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
+- LinkedIn: [www.linkedin.com/in/roya-gozalpour-b39587234)
 
 ---
 
